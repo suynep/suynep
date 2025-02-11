@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![BigBrain](Coding Big Brain GIF by SMOL.gif)
+![BigBrain](https://github.com/suynep/suynep/blob/main/Coding%20Big%20Brain%20GIF%20by%20SMOL.gif)
 - I'm currently studying CS at [Kathmandu University](https://ku.edu.np/)
 - I love everything related to Tech🧑‍💻, Philosophy💭, Literature📚️, and Guitar🎸. 
 - I'm looking for Open Source Projects🦾 to Contribute to
