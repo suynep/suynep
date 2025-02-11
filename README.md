@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![BigBrain](https://github.com/suynep/suynep/blob/main/Coding%20Big%20Brain%20GIF%20by%20SMOL.gif)
+<p float="left">
+    <img src="https://github.com/suynep/suynep/blob/main/Coding%20Big%20Brain%20GIF%20by%20SMOL.gif" height=100px style="border-radius: 10px;">
+    <img src="https://github.com/suynep/suynep/blob/main/Technology%20Code%20GIF%20by%20The%20Coding%20Space%20RD.gif" height=100px style="border-radius: 10px;">
+    <img src="https://github.com/suynep/suynep/blob/main/Work%20Coding%20GIF%20by%20Pudgy%20Penguins.gif" height=100px>
+    <img src="https://github.com/suynep/suynep/blob/main/Art%20Think%20GIF%20by%20Smolverse.gif" height=100px>
+</p>
+
 - I'm currently studying CS at [Kathmandu University](https://ku.edu.np/)
 - I love everything related to Tech🧑‍💻, Philosophy💭, Literature📚️, and Guitar🎸. 
 - I'm looking for Open Source Projects🦾 to Contribute to
