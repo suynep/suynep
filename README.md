@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 - currently: CS at [Kathmandu University](https://ku.edu.np/)
-- love everything related to Tech🧑‍💻, Philosophy💭, Literature📚️, and Guitar🎸. 
+- talk to me about Tech🧑‍💻 and Jazz🎸. 
 - looking for Open Source Projects🦾 to Contribute to
 
 ## Stacks
